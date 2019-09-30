@@ -1,38 +1,6 @@
-# v0.1.3 (Mon Sep 30 2019)
+# v0.1.0 (Tue Sep 03 2019)
 
-#### ⚠️  Pushed to master
-
-- Expanded DocsPage w/ more details  ([@tmeasday](https://github.com/tmeasday))
-- Added AvatarList documentation  ([@tmeasday](https://github.com/tmeasday))
-- Added basic AvatarList and story  ([@tmeasday](https://github.com/tmeasday))
-- Update package.json with scripts to publish  ([@tmeasday](https://github.com/tmeasday))
-- Added gitignore for .env  ([@tmeasday](https://github.com/tmeasday))
-- Installed auto  ([@tmeasday](https://github.com/tmeasday))
-- Update package.json with output of `yarn init`  ([@tmeasday](https://github.com/tmeasday))
-- Ensure we build the components before publishing  ([@tmeasday](https://github.com/tmeasday))
-- Add build script  ([@tmeasday](https://github.com/tmeasday))
-- Add proper README and entrypoint  ([@tmeasday](https://github.com/tmeasday))
-- Add a build-storybook-docs script  ([@tmeasday](https://github.com/tmeasday))
-- Added an Introduction to the documentation  ([@tmeasday](https://github.com/tmeasday))
-- Added a note about usage  ([@tmeasday](https://github.com/tmeasday))
-- Add doc blocks for Preview and Props  ([@tmeasday](https://github.com/tmeasday))
-- Move Avatar stories to mdx  ([@tmeasday](https://github.com/tmeasday))
-- Added new AvatarList stories  ([@tmeasday](https://github.com/tmeasday))
-- Add storybook docs  ([@tmeasday](https://github.com/tmeasday))
-- Added addon-a11y  ([@tmeasday](https://github.com/tmeasday))
-- Added a unit test for the Link component  ([@tmeasday](https://github.com/tmeasday))
-- Added chromatic package and circle config  ([@tmeasday](https://github.com/tmeasday))
-- Add storybook-static to .gitignore  ([@tmeasday](https://github.com/tmeasday))
-- Add a basic circle config  ([@tmeasday](https://github.com/tmeasday))
-- Add knobs addon  ([@tmeasday](https://github.com/tmeasday))
-- Add storysource addon  ([@tmeasday](https://github.com/tmeasday))
-- Add design system font  ([@tmeasday](https://github.com/tmeasday))
-- Add global styles  ([@tmeasday](https://github.com/tmeasday))
-- Add storybook  ([@tmeasday](https://github.com/tmeasday))
-- Added prettier  ([@tmeasday](https://github.com/tmeasday))
-- Initial set of design tokens  ([@tmeasday](https://github.com/tmeasday))
-- Initial set of components and stories  ([@tmeasday](https://github.com/tmeasday))
-- Remove CRA app files  ([@tmeasday](https://github.com/tmeasday))
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### Authors: 1
 
